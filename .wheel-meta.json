@@ -1,0 +1,22 @@
+{
+  "wheel_id": 770,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-153",
+  "project": "mortgage-brokers-sunshine-coast-investment-04b075f99f4053202088",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-013",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "mortgage brokers sunshine coast investment",
+  "intended_url": "https://aumedia.neocities.org/mortgage-brokers-sunshine-coast-investment-04b075f99f4053202088/",
+  "tier": "T2",
+  "writeback_nonce": "24a0ed817f29bd75",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-brokers-sunshine-coast-homeloanbrokersunshinecoast-013/",
+      "anchor": "Mortgage Brokers Sunshine Coast: Practical Borrower Checks",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
